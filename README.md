@@ -5,7 +5,7 @@
 本版本优化了两个地方，第一个是将经典的递归改成了循环避免了堆栈溢出，第二个是优化了路径尽量走直线。
 
 关于用法
-直接调用getPath即可参数和返回值如下, 另外点对象的结构如下(x: 0, y: 0)
+工程项目是cocos create的，其他项目直接调用 /assets/Script/AutoFindPath.js下的getPath即可参数和返回值如下, 另外点对象的结构如下(x: 0, y: 0)
 /**
  *
  * @param {object} bron        出生点
