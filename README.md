@@ -1,6 +1,6 @@
 # astar
 
-- 最近更新
+##  最近更新
 新增了TS版本，进一步的优化代码，以及进一步的简化用法，欢迎大家提issue
  https://github.com/microcisco/astartForTS
 ---
